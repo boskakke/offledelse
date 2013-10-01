@@ -15,6 +15,8 @@ function roots_setup() {
   add_theme_support('post-thumbnails');
   set_post_thumbnail_size(180, 180, false);
   add_image_size('article-image', 1170, 550, true); // Article images)
+
+  
   
 
 
