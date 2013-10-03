@@ -23,7 +23,7 @@
 			"file": "templates/sidebar.php",
 			"settings":
 			{
-				"buffer_size": 1433,
+				"buffer_size": 1443,
 				"line_ending": "Unix"
 			}
 		},
@@ -48,6 +48,30 @@
 			"settings":
 			{
 				"buffer_size": 2508,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/content.php",
+			"settings":
+			{
+				"buffer_size": 532,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/entry-meta-front.php",
+			"settings":
+			{
+				"buffer_size": 164,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/entry-meta.php",
+			"settings":
+			{
+				"buffer_size": 393,
 				"line_ending": "Unix"
 			}
 		}
@@ -165,7 +189,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 6,
 			"sheets":
 			[
 				{
@@ -173,15 +197,15 @@
 					"file": "templates/sidebar.php",
 					"settings":
 					{
-						"buffer_size": 1433,
+						"buffer_size": 1443,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1322,
-								1322
+								1331,
+								1331
 							]
 						],
 						"settings":
@@ -273,6 +297,95 @@
 							[
 								2486,
 								2486
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "templates/content.php",
+					"settings":
+					{
+						"buffer_size": 532,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								305,
+								305
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "templates/entry-meta-front.php",
+					"settings":
+					{
+						"buffer_size": 164,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								127,
+								156
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "templates/entry-meta.php",
+					"settings":
+					{
+						"buffer_size": 393,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								393,
+								393
 							]
 						],
 						"settings":

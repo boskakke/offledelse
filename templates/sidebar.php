@@ -17,7 +17,7 @@
  <?php if ($posts) : ?>
  <section class="widget recent-posts-3 widget_recent_entries">
  	<div class="widget-inner">		
- 	<h3>Fra samme blad samme blad</h3>
+ 	<h3>Fra samme blad</h3>
  <ul class="related-posts">
  <?php
     foreach($posts as $post) {
