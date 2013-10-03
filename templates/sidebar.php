@@ -47,6 +47,6 @@
 <?php endif; ?>
 
 <div class="logos">
-  <p>Bladet udgives i samarbejde med:</p>
+  <p>Offentlig Ledelse udgives i fællesskab af:</p>
 	<img src="<?php bloginfo('stylesheet_directory'); ?>/assets/img/logos.png" class="img-responsive">
 </div>
